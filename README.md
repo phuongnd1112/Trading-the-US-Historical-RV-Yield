@@ -26,4 +26,4 @@
 
   ![7 days](https://github.com/phuongnd1112/Trading-the-US-Historical-RV-Yield/blob/main/7d_rolling.png) 
   ![14 days](https://github.com/phuongnd1112/Trading-the-US-Historical-RV-Yield/blob/main/14d_rolling.png)
-  ![1_month](https://github.com/phuongnd1112/Trading-the-US-Historical-RV-Yield/blob/main/7d_rolling.png) 
+  ![1_month](https://github.com/phuongnd1112/Trading-the-US-Historical-RV-Yield/blob/main/1mo_rolling.png) 
